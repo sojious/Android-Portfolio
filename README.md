@@ -1,6 +1,6 @@
 # Adesoji Olowa
 
-### Hello, I am an Android developer committed to following best practices for developing insanely performant Android applications and enthusiastic about learning new technologies, methods, and principles as per the project requirements. Keep Learning and Keep Sharing
+### I am Adesoji Olowa, a dedicated Android developer focused on crafting high-performing applications using the best practices. Eager to learn new technologies, I bring innovative solutions to projects, meeting tight deadlines and embracing challenges with enthusiasm. Let's connect and take your organization to new heights with my passion for creating exceptional Android experiences.
 
 <a href="mailto:soj.ykn@gmail.com"><img src="https://img.shields.io/badge/Email-adesoji-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/adesoji-olowa/" target="_blank"><img src="https://img.shields.io/badge/linkedin-Adesoji-blue.svg?style=for-the-badge&logo=linkedin&logoColor=white" ></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/sojious" target="_blank"><img src="https://img.shields.io/badge/github-sojious-red.svg?style=for-the-badge&logo=github&logoColor=white"></a>
 
