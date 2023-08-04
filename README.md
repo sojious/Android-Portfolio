@@ -6,7 +6,7 @@
 
 # YouHr - Youverify Employee Management tool
 
-This is an HR App developed as an internal tool for [Youverify](https://youverify.co/) to efficiently manage and organize employee-related tasks and information. It provides a user-friendly interface and essential features for handling various HR processes seamlessly. The app constantly communicates with a remote server to fetch Employee data (documents, leave history, profile). To ensure a great user experience, it employs an offline-first approach, caching critical data on the device's local storage using the Room Library. Android Paging 3 library is also used to allow for efficient memory usage.
+This is an HR App developed as an internal tool for [Youverify](https://youverify.co/) to efficiently manage and organize employee-related tasks and information. It provides a user-friendly interface and essential features for handling various HR processes seamlessly. The app constantly communicates with a remote server to fetch employee data (documents, leave history, profile). To ensure a great user experience, it employs an offline-first approach, caching critical data on the device's local storage using the Room Library. The Jetpack Paging 3 library is also used to achieve efficient memory usage.
 It has typical Hr features like:
 ### Features
 1. **Authentication:**
@@ -29,7 +29,7 @@ It has typical Hr features like:
    - HR administrators can access and manage employee profiles, ensuring accurate records.
 
 
-## Technologies Used
+### Technologies Used
 - Frontend: Jetpack Compose
 - Backend: Node.js
 - Database: Room Library
