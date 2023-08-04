@@ -37,14 +37,9 @@ It has typical Hr features like:
 - Dependency Injection : Dagger Hilt
 - Paging: Jetpack Paging 3 Library
 - Architecture: Clean Architecture with MVVM
-
-
+<p></p>
 <p align="center">
 <img src="images/youhr_app/youhr-demo.gif" width="250"  title="YouHr Application demo">
-</p>
-
-<p align="center">
-<img src="images/youhr_app/youhr-frame.png" width="700" title="YouHr frame">
 </p>
 
 
