@@ -44,7 +44,7 @@ It has typical Hr features like:
 </p>
 
 <p align="center">
-<img src="images/youhr-app/youhr-frame.gif" width="700" title="YouHr frame">
+<img src="images/youhr-app/youhr-frame.png" width="700" title="YouHr frame">
 </p>
 
 
