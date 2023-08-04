@@ -29,7 +29,14 @@ It has typical Hr features like:
    - HR administrators can access and manage employee profiles, ensuring accurate records.
 
 
-### Technolgies: Kotlin, Jetpack Compose, Room, Hilt, Retrofit, Paging, Clean Architecture with MVVM.
+## Technologies Used
+- Frontend: Jetpack Compose
+- Backend: Node.js
+- Database: Room Library
+- Networking: Retrofit
+- Dependency Injection : Dagger Hilt
+- Paging: Jetpack Paging 3 Library
+- Architecture: Clean Architecture with MVVM
 
 
 <p align="center">
