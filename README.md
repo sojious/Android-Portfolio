@@ -40,11 +40,11 @@ It has typical Hr features like:
 
 
 <p align="center">
-<img src="images/youhr-app/youhr.png" width="700"  title="YouHr Application">
+<img src="images/youhr_app/youhr-demo.gif" width="250"  title="YouHr Application demo">
 </p>
 
 <p align="center">
-<img src="images/youhr-app/youhr.gif" width="190" title="Word Guess">
+<img src="images/youhr-app/youhr.gif" width="700" title="YouHr frame">
 </p>
 
 
