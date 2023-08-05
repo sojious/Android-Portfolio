@@ -30,13 +30,12 @@ It has typical Hr features like:
 
 
 ### Technologies Used
-- Frontend: Jetpack Compose
-- Backend: Node.js
-- Database: Room Library
-- Networking: Retrofit
-- Dependency Injection : Dagger Hilt
-- Paging: Jetpack Paging 3 Library
-- Architecture: Clean Architecture with MVVM
+- **Jetpack Compose**
+- **Room Library**
+- **Retrofit**
+- **Dagger Hilt**
+- **Jetpack Paging 3 Library**
+- **Clean Architecture with MVVM**
 <p></p>
 <p align="center">
 <img src="images/youhr_app/youhr-demo.gif" width="250"  title="YouHr Application demo">
@@ -45,7 +44,7 @@ It has typical Hr features like:
 
 # Yvos Android Sdk
 
-An android Library developed for Youverify enables clients to integrate the company's services into their Android app with minimal effort. It is heavily reliant on the "Builder" creational pattern to instantiate Objects and communicates with a remote server to load the appropriate service. 
+An android Library that enables clients to integrate Youverify's services into their Android app with minimal effort. It is heavily reliant on the "Builder" creational pattern to create Objects and communicates with a remote server to load the appropriate service. 
 It includes the following identity verification services:
 
 - Identity verification forms that can be filled out by users
@@ -54,70 +53,12 @@ It includes the following identity verification services:
 
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://central.sonatype.com/artifact/co.youverify/yvos.android/1.0.0) 
 
-### Technolgies : Kotlin, XML, Jepack Compose, Dokka, MVVM, Retrofit
-
-
-# Stry Application (Educational Application)
-<a href='https://play.google.com/store/apps/details?id=alejandro.ibague.studyapp'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-
-This application is still in development and I was on the contract-based android application where I make quizzes, statistics, overlay windows, and fix some errors in different sections of the app.
-
-Application is for the students which contain questions in a quiz wrapped in a package, also the teacher can create packages with number of questions in its answer and those packages will get converted in the quiz and these packages will be available in the packaging market in the application. There are other useful features in application like a floating window where the user can enable and give answers while he is outside of the application and other features like sharing packages and give a review to packages.
-
-### Technolgies : Android SDK , Kotlin, Xml, Firebase, MVVM 
-
-<p align="center">
-<img src="images/stry app/Artboard – 1@2x.png" width="700"  title="Stry Application">
-</p>
-
-<p align="center">
-<img src="images/stry app/stry video.gif" width="190" title="Word Guess">
-</p>
-
-# Storyfy Application 
-<a href='https://play.google.com/store/apps/details?id=com.harshilzalavadiya.com.storyfy'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
-
-When I was working in a company as an intern, I build this application which is basically a storytelling application where you story coming from the server and you can choose your choice in order turn story in your direction.
-
-The application uses firebase to store stories and also it shows different twists according to user choice. It has a quite simple user interface with some animation, the application will upload new stories as they completing writing the stories by writer and the user does not need to update the application in order to read new content. I have used a custom user interface because requirements are to make the app more like a book so we have made the custom drawable and view to perform this action.
-
-### Technolgies : Android SDK , Java, Xml, Firebase
-
-<p align="center">
-<img src="images/storyfy app/Artboard – 1@2x.png" width="700"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-<img src="images/storyfy app/storyfy video.gif" width="210" title="Storyfy">
-</p>
-
-# Covid Tracker
-
-I build this application when I was doing a challenge at topcoder where i have APIs for the covid-19 data so this application used to track cases all over the world.
-The application uses retrofit, data binding, and Rx java for calling API and fetch all the data in order to show on the list. I used graphs also for indicating the number of cases, deaths, and confirmed cases all over the world. You can also see data particular to a country.
-
-### Technolgies : Android SDK , Kotlin, Xml, RxJava
-
-<p align="center">
-<img src="images/Covid app/Artboard – 1@2x.png" width="480"  title="Storyfy Application">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="images/Covid app/covid video.gif" width="210" title="Storyfy">
-</p>
-
-
-# BeatPlayer Music Application
-
-This is my first application when I was learning android application development, most of the things I implement in the application is custom means I almost try not to use 3rd party libraries because I wanted to learn more deeply about low-level APIs of android.
-
-
-The application will show you the all the songs which are available in your phone using the content provider and at the same time, it will create the service for the application so that you can easily play the music in the background and I use foreground service with a notification which means you can also listen to your music even if you remove the application from the background. The application also offers you the albums where you have songs according to their albums so you can listen to music based on the albums, also you can search for music in application. It also offers you a good user interface with animation so you will stick to use the application.
-
-### Technolgies : Android SDK , Java, Xml
-
-<p align="center">
-<img src="images/Artboard – 1@2x.png" width="1230"  title="Music Application">
-</p>
-
+### Technologies Used
+- **Jetpack Compose, XML**
+- **Kotlin**
+- **Retrofit**
+- **Dokka (Documentation)**
+- **MVVM**
 
 
 ## Thanks for stopping by!
@@ -126,7 +67,7 @@ The application will show you the all the songs which are available in your phon
    LICENCE
 -----
 
- Copyright 2022 Ankit kumar
+ Copyright 2022 Adesoji Olowa
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
