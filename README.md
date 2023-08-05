@@ -45,18 +45,16 @@ It has typical Hr features like:
 
 # Yvos Android Sdk
 
-An Sdk developed for Youverify which enables clients to integrate the company's services into their Android app with minimal effort.
+An android Library developed for Youverify enables clients to integrate the company's services into their Android app with minimal effort. It is heavily reliant on the "Builder" creational pattern to instantiate Objects and communicates with a remote server to load the appropriate service. 
 It includes the following identity verification services:
 
 - Identity verification forms that can be filled out by users
 - Liveness check functionality
 - Document capture functionality
 
-<a href='https://play.google.com/store/apps/details?id=com.jackandphantom.mytodo'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png' height='80px'/></a>
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://central.sonatype.com/artifact/co.youverify/yvos.android/1.0.0) 
 
 ### Technolgies : Kotlin, XML, Jepack Compose, Dokka, MVVM, Retrofit
-
-![Note app feature 1 0](./images/notes_app.gif)
 
 
 # Stry Application (Educational Application)
